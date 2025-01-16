@@ -21,7 +21,9 @@
 
    &nbsp;
 
-<img width="55%" align="right" alt="Github" src="" />
+<img width="30%" align="right" alt="Github" src="https://github.com/PetarMihaylov-PM/PetarMihaylov-PM/blob/main/pngtree-programmer-clipart-developer-sitting-behind-his-computer-in-glasses-cartoon-vector-png-image_6815441.png?raw=true" />
+
+### About me:
 - :telescope: On my way to mastering JavaScript, learning and building along the journey. 🔨
 - 💻 Excited to start my journey as a front-end developer, ready to bring ideas to life with code. 📶
 - ⚡ Currently participating in Software University, focused on deepening my knowledge of JavaScript and growing as a developer.
