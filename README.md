@@ -1,6 +1,6 @@
 # 🌻 Petar Mihaylov - Junior Front End Developer
 
-**`Saving the day one console.log at a time 😁.`**
+**`Saving the day one console.log at a time 😁`**
 
 <p align="left">
       <a href="https://github.com/PetarMihaylov-PM?tab=followers">
