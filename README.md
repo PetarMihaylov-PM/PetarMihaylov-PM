@@ -30,6 +30,9 @@
 - 📫 You can get in touch with me by email at: petur_mihailovv@abv.bg,  [Facebook](https://www.facebook.com/Petar.Mihaylovv/) and [Linkedin](https://www.linkedin.com/in/petar-mihaylovv).
 
 
+<div align="center">
+<img align="center" alt="Github" src="https://github.com/PetarMihaylov-PM/PetarMihaylov-PM/blob/main/Mountain-PNG.png?raw=true" width="1800" height="300"/>
+
 ---
 <div align="center">
   
