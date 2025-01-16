@@ -15,8 +15,7 @@
          <img alt="linkedinlogo" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/></a>
       <a href="mailto:petarmihailovv96@abv.bg">
          <img alt="abvlogo" src="https://img.shields.io/static/v1?message=petur_mihailovv@abv.bg&logo=mail&label=&color=1E8B5A&logoColor=white&labelColor=&style=for-the-badge" height="28"/></a>
-      <a href="https://komarev.com/ghpvc/?username=PetarMihaylov-PM&color=green" style="text-decoration: none; outline: none; border: none;">
-        <img alt="profile views" src="https://komarev.com/ghpvc/?username=PetarMihaylov-PM&color=green" height="28"/></a>
+      
    </p>
 
    &nbsp;
