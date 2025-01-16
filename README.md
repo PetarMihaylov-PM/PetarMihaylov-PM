@@ -31,7 +31,7 @@
 
 
 <div align="center">
-<img align="center" alt="Github" src="https://github.com/PetarMihaylov-PM/PetarMihaylov-PM/blob/main/Mountain-PNG-Remaked.png?raw=true" width="1800" height="300"/>
+<img align="center" alt="Github" src="https://github.com/PetarMihaylov-PM/PetarMihaylov-PM/blob/main/Mountain-PNG-Remaked.png?raw=true" width="1800" height="320"/>
 
 ---
 <div align="center">
