@@ -24,7 +24,7 @@
 
 ### 🙄 About me:
 - :telescope: On my way to mastering JavaScript, learning and building along the journey. 🔨
-- 💻 Excited to start my journey as a front-end developer, ready to bring ideas <br> to life with code. 📶
+- 💻 Excited to start my journey as a front-end developer, ready to bring ideas <br> to life with code. 🧬
 - ⚡ Currently participating in Software University, focused on deepening my knowledge of JavaScript and growing as a developer.
 - 🌱 Fun fact: **Started as a farmer, now planting code to harvest innovative digital solutions!**
 - 📫 You can get in touch with me by email at: petur_mihailovv@abv.bg,  [Facebook](https://www.facebook.com/Petar.Mihaylovv/) and [Linkedin](https://www.linkedin.com/in/petar-mihaylovv).
