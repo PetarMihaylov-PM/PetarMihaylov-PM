@@ -50,10 +50,6 @@
 
 #
 ### 🕙 My Contribution:
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PetarMihaylov-PM&theme=gruvbox-duo" alt="GitHub Streak" /></a>
-
-#
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petarmihaylov-pm&show_icons=true&locale=en&layout=compact&theme=transparent" alt="petarmihaylov-pm" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=petarmihaylov-pm&show_icons=true&theme=transparent" alt="petarmihaylov-pm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petarmihaylov-pm&show_icons=true&locale=en&layout=compact&theme=transparent" alt="petarmihaylov-pm" /></p>
 
