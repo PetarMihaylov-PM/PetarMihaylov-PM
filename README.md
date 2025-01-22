@@ -20,7 +20,7 @@
 
    &nbsp;
 
-<img width="30%" align="right" alt="Github" src="https://github.com/PetarMihaylov-PM/PetarMihaylov-PM/blob/main/pngtree-programmer-clipart-developer-sitting-behind-his-computer-in-glasses-cartoon-vector-png-image_6815441.png?raw=true" />
+<img width="30%" align="right" alt="Github" src="https://github.com/PetarMihaylov-PM/PetarMihaylov-PM/blob/main/devCoding.png?raw=true" />
 
 ### 🙄 About me:
 - :telescope: On my way to mastering JavaScript, learning and building along the journey. 🔨
