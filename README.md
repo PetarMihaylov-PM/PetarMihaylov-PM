@@ -13,7 +13,7 @@
          <img alt="gmaillogo" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="28"/></a>
       <a href="https://www.linkedin.com/in/petar-mihaylovv">
          <img alt="linkedinlogo" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/></a>
-      <a href="mailto:petarmihailovv96@abv.bg">
+      <a href="mailto:petur_mihailovv@abv.bg">
          <img alt="abvlogo" src="https://img.shields.io/static/v1?message=petur_mihailovv@abv.bg&logo=mail&label=&color=1E8B5A&logoColor=white&labelColor=&style=for-the-badge" height="28"/></a>
       
    </p>
