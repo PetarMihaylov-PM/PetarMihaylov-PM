@@ -6,8 +6,9 @@
       <a href="https://github.com/PetarMihaylov-PM" target="_blank">
           <img alt="followers" title="Follow me on Github" 
          src="https://custom-icon-badges.demolab.com/github/followers/PetarMihaylov-PM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cacheSeconds=3600"/></a>
-      <a href="https://github.com/PetarMihaylov-PM?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PetarMihaylov-PM?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+     <a href="https://github.com/PetarMihaylov-PM?tab=repositories&sort=stargazers">
+          <img alt="total stars" title="Total stars on GitHub" 
+         src="https://img.shields.io/github/stars/PetarMihaylov-PM?affiliations=OWNER&color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://www.facebook.com/your-profile-url">
          <img alt="fblogo" src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28"/></a>
       <a href="mailto:petarmihailovv96@gmail.com">
