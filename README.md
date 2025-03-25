@@ -1,4 +1,4 @@
-# 🌻 Petar Mihaylov - Future Junior Front End Developer
+# 🌻 Petar Mihaylov - Junior Frontend Developer
 
 **`Saving the day one console.log at a time 😁`**
 
