@@ -1,6 +1,6 @@
 # 🌻 Petar Mihaylov - Junior Frontend Developer
 
-**`Saving the day one console.log at a time 😁`**
+**`6 hours of debugging can save you 5 minutes of reading documentation 😁`**
 
 <p align="left">
       <a href="https://github.com/PetarMihaylov-PM" target="_blank">
