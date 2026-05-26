@@ -54,7 +54,4 @@
 <br />
 
 #
-### 🕙 My Contribution:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=petarmihaylov-pm&show_icons=true&theme=transparent" alt="petarmihaylov-pm" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petarmihaylov-pm&show_icons=true&locale=en&layout=compact&theme=transparent" alt="petarmihaylov-pm" /></p>
 
