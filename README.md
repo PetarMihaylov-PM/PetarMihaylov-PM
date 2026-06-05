@@ -1,4 +1,4 @@
-# 🌻 Petar Mihaylov - Junior Frontend Developer
+# 🌻 Petar Mihaylov
 
 **`6 hours of debugging can save you 5 minutes of reading documentation 😁`**
 
