@@ -25,8 +25,8 @@
 <img width="30%" align="right" alt="Github" src="https://github.com/PetarMihaylov-PM/PetarMihaylov-PM/blob/main/devCoding.png?raw=true" />
 
 ### 🙄 About me:
-- 🌐 My portfolio website: https://petarmihaylov-pm.github.io/portfolio-website/
-- 🍊 My full-stack web app - Trendora: https://trendora-e-commerce.vercel.app/
+- 🌐 My cooking website: https://cookandcalc.com/
+- 🍊 My farming website - Trendora: https://farmmarkettool.com/
 - :telescope: On my way to mastering JavaScript, HTML, CSS and React. Learning and building along the journey. 🔨
 - 💻 Excited to start my journey as a front-end developer, ready to bring ideas <br> to life with code. 🧬
 - ⚡ Currently participating in Software University, focused on deepening my knowledge of JavaScript and growing as a developer.
